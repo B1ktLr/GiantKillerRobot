@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\bin\Debug\GiantKillerRobot.exe.config
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\bin\Debug\GiantKillerRobot.exe
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\bin\Debug\GiantKillerRobot.pdb
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.exe
+C:\Users\victo\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.pdb
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\bin\Debug\GiantKillerRobot.exe.config
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\bin\Debug\GiantKillerRobot.exe
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\bin\Debug\GiantKillerRobot.pdb
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.csproj.AssemblyReference.cache
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.csproj.CoreCompileInputs.cache
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.exe
+C:\Users\Florian\OneDrive\Desktop\GiantKillerRobot\obj\Debug\GiantKillerRobot.pdb
